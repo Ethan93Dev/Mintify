@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MintifyApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692a8d11eb4b86e0aa7ae6c6c02804f447038a78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fac3d33c0e5f2cd3644e34ec048dee044a61cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MintifyApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MintifyApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
